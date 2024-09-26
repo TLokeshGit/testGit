@@ -1,0 +1,5 @@
+This is main Branch, file 3.
+
+But, adding it to main after making changes to file1 and file2 in developer-theme branch.
+
+you probably won't see: This is main Branch in other two files :) because, I will merge developer-theme branch!!!
